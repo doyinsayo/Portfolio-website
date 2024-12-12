@@ -8,7 +8,7 @@ const About = () => {
       <p className="mt-4 text-lg max-w-lg">
       I design and implement decentralized applications (dApps) using Solidity and advanced smart contract patterns.
       </p>
-      <img src="/path/to/your/image.jpg" alt="Profile" className="mt-8 rounded-full w-32 h-32 object-cover border-4 border-gray-600" />
+      <img src="/doyinsayo/downloads/right-click.webp" alt="Profile" className="mt-8 rounded-full w-32 h-32 object-cover border-4 border-gray-600" />
     </section>
   );
 };
